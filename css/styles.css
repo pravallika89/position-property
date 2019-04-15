@@ -1,13 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css?family=Roboto'); */
+
 .static{
     border: 1px solid green;
     padding: 10px;
     position: static;
+    font-family: 'Roboto', sans-serif;
 }
 
 .relative-1{
     border:1px solid blue;
     padding:10px;
     position:relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-style:italic;
 
 }
 .relative-2{
